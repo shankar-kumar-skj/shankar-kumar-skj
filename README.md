@@ -152,9 +152,9 @@ With a curious mind and an engineer’s precision, I bridge the gap between **lo
 
 ## 🌱 Currently Exploring
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" width="350" alt="Rocket Animation"/>
-</p>
+</p> -->
 
 - 🤖 Deep Learning & Reinforcement Learning  
 - ☁️ Scalable AI on Cloud (AWS / GCP)  
