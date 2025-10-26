@@ -135,9 +135,9 @@ With a curious mind and an engineer’s precision, I bridge the gap between **lo
 
 ## 📊 GitHub Insights
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://media.giphy.com/media/XIqCQx02E1U9W/giphy.gif" width="250" alt="Analytics Animation"/>
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shankar-kumar-skj&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
