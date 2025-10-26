@@ -15,6 +15,8 @@
 
 ## 🧭 About Me
 
+<img align="right" alt="Coding GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320"/>
+
 > “I don’t just write code — I craft solutions.”
 
 I’m **Shankar Kumar**, an aspiring **Software Engineer** and **Machine Learning Enthusiast** from Jaipur, India 🇮🇳.  
@@ -27,6 +29,10 @@ With a curious mind and an engineer’s precision, I bridge the gap between **lo
 ---
 
 ## ⚙️ Tech Arsenal
+
+<p align="center">
+  <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="400" alt="Tech Animation"/>
+</p>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,python,cpp,mysql,html,css,tensorflow,sklearn,git,aws,vscode,figma" />
@@ -47,6 +53,10 @@ With a curious mind and an engineer’s precision, I bridge the gap between **lo
 ### 🏠 [Room Allotment System](https://github.com/shankar-kumar-skj/Room_Allotment_System)
 > *Dynamic, automated room allocation using Java + MySQL*
 
+<p align="center">
+  <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" width="400" alt="Database Animation"/>
+</p>
+
 - Developed a web-based solution for university room allocation.  
 - Role-based login for **Admin** and **HOD** users.  
 - Optimized capacity checks, increasing efficiency by **50%**.
@@ -57,6 +67,10 @@ With a curious mind and an engineer’s precision, I bridge the gap between **lo
 
 ### 🤖 [30 Days of Machine Learning Projects](https://github.com/shankar-kumar-skj/30_DAYS_30_MACHINE_LEARNING_PROJECTS)
 > *30 real-world ML projects — one per day, zero excuses.*
+
+<p align="center">
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="400" alt="AI Machine Learning GIF"/>
+</p>
 
 - Built models using **Linear Regression**, **CNNs**, **LSTMs**, **KMeans**, and more.  
 - Implemented **data preprocessing, visualization, and evaluation** pipelines.  
@@ -71,6 +85,10 @@ With a curious mind and an engineer’s precision, I bridge the gap between **lo
 ### 💻 **Software Development Engineer (Intern) — REGex Software**
 📆 *May 2025 – July 2025* | Jaipur, India  
 
+<p align="center">
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="300" alt="Cloud Deployment GIF"/>
+</p>
+
 - Deployed **Deep Learning models** using **AWS SageMaker**.  
 - Built **NLP transformers** for text understanding tasks.  
 - Designed and automated **ML pipelines** for client-based solutions.
@@ -78,6 +96,10 @@ With a curious mind and an engineer’s precision, I bridge the gap between **lo
 ---
 
 ## 🏆 Achievements & Recognition
+
+<p align="center">
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="300" alt="Trophy Animation"/>
+</p>
 
 🏅 **XR Creator Hackathon (WAVE 2025)** — Qualified Round 01/02  
 💡 **Smart India Hackathon 2024** — *Team NavAstra Nomination*  
@@ -88,6 +110,10 @@ With a curious mind and an engineer’s precision, I bridge the gap between **lo
 ---
 
 ## 🎓 Certifications
+
+<p align="center">
+  <img src="https://media.giphy.com/media/l41lI4bYmcsPJX9Go/giphy.gif" width="250" alt="Certificate Animation"/>
+</p>
 
 - 🧠 Real-Time Application using Machine Learning & Artificial Intelligence  
 - 💼 Technology Software Development Job Simulation  
@@ -110,6 +136,10 @@ With a curious mind and an engineer’s precision, I bridge the gap between **lo
 ## 📊 GitHub Insights
 
 <p align="center">
+  <img src="https://media.giphy.com/media/XIqCQx02E1U9W/giphy.gif" width="250" alt="Analytics Animation"/>
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shankar-kumar-skj&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shankar-kumar-skj&theme=tokyonight&hide_border=true" height="150"/>
 </p>
@@ -122,6 +152,10 @@ With a curious mind and an engineer’s precision, I bridge the gap between **lo
 
 ## 🌱 Currently Exploring
 
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" width="350" alt="Rocket Animation"/>
+</p>
+
 - 🤖 Deep Learning & Reinforcement Learning  
 - ☁️ Scalable AI on Cloud (AWS / GCP)  
 - 🧠 AI-powered Recommendation & Prediction Systems  
@@ -132,6 +166,10 @@ With a curious mind and an engineer’s precision, I bridge the gap between **lo
 ## 🌐 Connect With Me
 
 <p align="center">
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="300" alt="Wave Animation"/>
+</p>
+
+<p align="center">
   <a href="mailto:ak9843688@gmail.com"><img src="https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/shankar-kumar-02800b290/"><img src="https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://shankar-portfolio-eight.vercel.app/"><img src="https://img.shields.io/badge/Visit%20My%20Portfolio-1E90FF?style=for-the-badge&logo=vercel&logoColor=white"/></a>
@@ -140,4 +178,3 @@ With a curious mind and an engineer’s precision, I bridge the gap between **lo
 ---
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1E90FF,100:00BFFF&height=150&section=footer&text=✨%20Code.%20Learn.%20Build.%20Repeat.%20✨&fontSize=24&fontColor=ffffff&animation=fadeIn"/>
-
