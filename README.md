@@ -85,9 +85,9 @@ With a curious mind and an engineer’s precision, I bridge the gap between **lo
 ### 💻 **Software Development Engineer (Intern) — REGex Software**
 📆 *May 2025 – July 2025* | Jaipur, India  
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="300" alt="Cloud Deployment GIF"/>
-</p>
+</p> -->
 
 - Deployed **Deep Learning models** using **AWS SageMaker**.  
 - Built **NLP transformers** for text understanding tasks.  
@@ -97,9 +97,9 @@ With a curious mind and an engineer’s precision, I bridge the gap between **lo
 
 ## 🏆 Achievements & Recognition
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="300" alt="Trophy Animation"/>
-</p>
+</p> -->
 
 🏅 **XR Creator Hackathon (WAVE 2025)** — Qualified Round 01/02  
 💡 **Smart India Hackathon 2024** — *Team NavAstra Nomination*  
@@ -111,9 +111,9 @@ With a curious mind and an engineer’s precision, I bridge the gap between **lo
 
 ## 🎓 Certifications
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://media.giphy.com/media/l41lI4bYmcsPJX9Go/giphy.gif" width="250" alt="Certificate Animation"/>
-</p>
+</p> -->
 
 - 🧠 Real-Time Application using Machine Learning & Artificial Intelligence  
 - 💼 Technology Software Development Job Simulation  
